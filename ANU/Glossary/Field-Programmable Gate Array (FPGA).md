@@ -1,0 +1,3 @@
+
+A field-programmable gate array (FPGA) is a generic programmable logic device which can be used for several R&D purposes, ranging from simple logic gate functionality to complex combinational functions. FPGAs are designed to be programmable by users to achieve circuitry functions when the manufacturing of a circuit board is unfeasible. They are designed to be re-programmable on the spot, hence the name. FPGAs are often used in free space optics due to their excellent signal processing speeds and parallel processing abilities. The QOGS uses an FPGA in its receiver system to decode incoming signals.
+ ![EPASGX230KFAOC3€-S AA 808 ](Exported%20image%2020241010164128-5.png)

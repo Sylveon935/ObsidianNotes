@@ -1,0 +1,3 @@
+Mie scattering is a type of scattering that occurs when light strikes and object that ahs a similar diameter to its wavelength (on the same order of magnitude). Mie scattering is highly angular dependent; light tends to scatter forwards in the direction the light was travelling in the first place. This is the dominant form of scattering that occurs for FSO wavelengths through lunar dust.
+
+![[Pasted image 20241016152130.png]]

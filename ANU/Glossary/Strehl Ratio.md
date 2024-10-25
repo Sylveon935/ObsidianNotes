@@ -1,0 +1,2 @@
+
+The Strehl ratio _S_ is a measure of the ratio of the displacement of the peak of an optical signal compared to the maximum attainable peak limited only by diffraction (i.e. an ideal optical system). _S_ takes a value between 0 and 1, with 0 implying a completely aberrated signal, and 1 implying a fully transmitted signal. For mathematical derivations, see: [https://en.wikipedia.org/wiki/Strehl_ratio](https://en.wikipedia.org/wiki/Strehl_ratio)

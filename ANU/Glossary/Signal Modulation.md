@@ -1,0 +1,13 @@
+Modulation is a form of signal processing that is used to optimise the efficiency and reliability of signal communication, particularly over long ranges. In general, modulation involves using a high frequency _carrier signal_ which is decoded by a receiver. The properties of the carrier signal are modified based on an input signal, known as the _message signal_. The carrier signal is something of a blank canvas with a default amplitude, phase and frequency, whereas the message signal contains the actual data that needs to be communicated. The message signal will alter properties of the carrier signal, such as the phase, amplitude or frequency to allow messages to be relayed further with less energy cost, and without interference.
+ 
+For analogue signals, there are two main categories of signal modulation; continuous wave modulation and pulse modulation. Continuous wave modulation involves applying a continuous analogue message signal to a continuous artificial carrier signal. Amplitude modulation (AM) involves modifying the amplitude of the carrier signal, frequency modulation (FM) involves modifying the frequency of the carrier signal and phase modulation (PM) involves modifying the phase of the carrier signal, as seen below.
+ ![Amplitude Modulation Message Signal Modulated Signal ](Exported%20image%2020241010164144-12.png)  
+![Frequency Modulation Message Signal Carrier Signal Modulated Signal ](Exported%20image%2020241010164146-13.png)  
+![Phase Modulation Message Signal Carrier Signal Modulated Signal ](Exported%20image%2020241010164148-14.png)  
+
+In the case of pulse modulation, an analogue message signal is used to alter the properties of a digital carrier signal. There are three main types of pulse modulation techniques (plus pulse core modulation which I can't be fucked with). Pulse amplitude modulation (PAM) involves altering the amplitude of the carrier signal, and pulse width modulation (PWM) involves altering the width of the carrier signal to reflect the message signal's amplitude. Pulse position modulation (PPM) involves spacing the peaks of the digital signal unevenly to reflect the message signal's amplitude. More specifically, the further away the message signal is from its own average amplitude, the further the displacement of the carrier signal.
+ ![Pulse Amplitude Modulation Modulated Signal Message Signal Carrier Signal ](Exported%20image%2020241010164150-15.png)  
+![Pulse width Modulation Message Signal Modulated Signal ](Exported%20image%2020241010164151-16.png)  
+![Pulse Position Modulation Message Signal Carrier Signal PPM Signal ](Exported%20image%2020241010164154-17.png)  
+
+The QOGS makes use of PPM to encode signals.

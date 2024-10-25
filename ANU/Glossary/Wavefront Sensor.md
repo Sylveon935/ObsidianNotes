@@ -1,0 +1,8 @@
+ 
+Wavefront sensors are a critical component of adaptive optics systems which quantify and characterise the observed aberration of incident light. In order to leverage adaptive optics systems to correct aberrations such as atmospheric turbulence, the exact amount of distortion must be known in real time. The QOGS uses a Shack-Hartmann Wavefront Sensor (SHWFS), which redirects incoming light into a series of lenslets. These lenslets redirect incoming light on to a grid (CMOS / CCD sensor), which creates a field of light 'spots'.
+ 
+The spots projected on to the field, ideally, will reside in the centre of each grid square as seen in the image below. If this is the case, the incoming plane wavefront is said to have no distortion.
+ ![Plane Wavefront Microlens Array CMOS / CCD Sensor Spot Field x x x x x x x x x x x x x x ](Exported%20image%2020241010164204-21.png)  
+
+However, if the redirected light from the lenslets arrives at the spot field off-centre, it is clear that aberration is occurring (as seen below). Adaptive optics instruments, such as [[Deformable Mirrors]], can be used to correct for any distortions. In this case, the SHWFS would be used in a [[Closed Loop System]] to advise the actuators within the deformable mirror to redirect each local region of the mirror until the incident light is centred in each grid coordinate.
+ ![Distorted Wavefront Microlens Array CMOS / CCD Sensor Spot Field ](Exported%20image%2020241010164206-22.png)

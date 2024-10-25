@@ -1,0 +1,3 @@
+
+Few mode fibre cables are a somewhat niche form of optical fibre cables which can carry more modes than single mode fibre, but less than multi mode fibre. The result is a fibre optic cable which can carry more optical power than a single mode fibre cable, but is much more lightweight than a traditional multi mode cable. Single mode fibre can typically transfer up to 100Tb/s, whereas few mode fibre can transfer much more. In the illustration below, Figure (a) represents a single mode fibre cable, whereas Figure (b) represents a few mode fibre cable. The core diameter of a few mode fibre cable is slightly bigger than a single mode fibre cable, but dramatically smaller than a regular multi mode fibre cable.
+ ![(e) (q) ](Exported%20image%2020241010164134-8.png)

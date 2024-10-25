@@ -1,0 +1,3 @@
+A fold mirror is a basic component used in optical systems to simply redirect light in a controlled path. Folded optics in general refers to the redirection of light from an instrument (such as a telescope) to a more convenient location (such as a sensor or decoder). Fold mirrors are simple devices which facilitate the transfer of light to be used by more sophisticated sensors and instruments.
+ ![Fotd • mirror IriS at foeuS ÇoklimaCing lens ](Exported%20image%2020241010164135-9.png)  
+ 
